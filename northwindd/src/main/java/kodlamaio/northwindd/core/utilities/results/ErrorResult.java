@@ -1,4 +1,4 @@
-package kodlamaio.northwindd.core.utilities.result;
+package kodlamaio.northwindd.core.utilities.results;
 
 
 //basarısız olma durumu ıcın bunu olusturduk.

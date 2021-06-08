@@ -1,8 +1,9 @@
 package kodlamaio.northwindd.business.abstracts;
 
 import java.util.List;
-import kodlamaio.northwindd.core.utilities.result.DataResult;
-import kodlamaio.northwindd.core.utilities.result.Result;
+
+import kodlamaio.northwindd.core.utilities.results.DataResult;
+import kodlamaio.northwindd.core.utilities.results.Result;
 import kodlamaio.northwindd.entities.concretes.Product;
 import kodlamaio.northwindd.entities.dtos.ProductWithCategoryDto;
 

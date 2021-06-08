@@ -6,10 +6,10 @@ import org.springframework.stereotype.Service;
 import kodlamaio.northwindd.business.abstracts.UserService;
 import kodlamaio.northwindd.core.dataAccess.UserDao;
 import kodlamaio.northwindd.core.entities.User;
-import kodlamaio.northwindd.core.utilities.result.DataResult;
-import kodlamaio.northwindd.core.utilities.result.Result;
-import kodlamaio.northwindd.core.utilities.result.SuccessDataResult;
-import kodlamaio.northwindd.core.utilities.result.SuccessResult;
+import kodlamaio.northwindd.core.utilities.results.DataResult;
+import kodlamaio.northwindd.core.utilities.results.Result;
+import kodlamaio.northwindd.core.utilities.results.SuccessDataResult;
+import kodlamaio.northwindd.core.utilities.results.SuccessResult;
 
 @Service
 public class UserManager implements UserService{

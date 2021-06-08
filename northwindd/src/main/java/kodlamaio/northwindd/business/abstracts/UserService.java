@@ -1,8 +1,8 @@
 package kodlamaio.northwindd.business.abstracts;
 
 import kodlamaio.northwindd.core.entities.User;
-import kodlamaio.northwindd.core.utilities.result.DataResult;
-import kodlamaio.northwindd.core.utilities.result.Result;
+import kodlamaio.northwindd.core.utilities.results.DataResult;
+import kodlamaio.northwindd.core.utilities.results.Result;
 
 public interface UserService {
 

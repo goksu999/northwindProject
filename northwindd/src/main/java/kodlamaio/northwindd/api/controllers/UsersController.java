@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import kodlamaio.northwindd.business.abstracts.UserService;
 import kodlamaio.northwindd.core.entities.User;
-import kodlamaio.northwindd.core.utilities.result.ErrorDataResult;
+import kodlamaio.northwindd.core.utilities.results.ErrorDataResult;
 
 
 //ÖNCE ANATASYONLAR YAZILDI.

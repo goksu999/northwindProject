@@ -1,4 +1,4 @@
-package kodlamaio.northwindd.core.utilities.result;
+package kodlamaio.northwindd.core.utilities.results;
 
 
 //işlemin basarılı oldugu noktadaki dataresultı nı dondurcez.

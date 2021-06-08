@@ -9,10 +9,10 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import kodlamaio.northwindd.business.abstracts.ProductService;
-import kodlamaio.northwindd.core.utilities.result.DataResult;
-import kodlamaio.northwindd.core.utilities.result.Result;
-import kodlamaio.northwindd.core.utilities.result.SuccessDataResult;
-import kodlamaio.northwindd.core.utilities.result.SuccessResult;
+import kodlamaio.northwindd.core.utilities.results.DataResult;
+import kodlamaio.northwindd.core.utilities.results.Result;
+import kodlamaio.northwindd.core.utilities.results.SuccessDataResult;
+import kodlamaio.northwindd.core.utilities.results.SuccessResult;
 import kodlamaio.northwindd.dataAccess.abstracts.ProductDao;
 import kodlamaio.northwindd.entities.concretes.Product;
 import kodlamaio.northwindd.entities.dtos.ProductWithCategoryDto;
